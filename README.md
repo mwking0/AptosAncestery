@@ -1,3 +1,5 @@
+
+![Example Image](./images/smart_contract.png)
 Smart contract documentation 
 Purpose:
 This smart contract implements a privacy-enhanced family health record system on the Aptos blockchain. It allows for secure storage and sharing of encrypted health data among family members and authorized users.
