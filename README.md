@@ -35,7 +35,7 @@ HealthUpdateEvent is emitted when a health record is updated, providing transpar
 
 
 ##############################################################################################################################
-
+![smart contract](Images/test.jpg)
 documentation 
 Purpose:
 This test module verifies the functionality of the PrivacyEnhancedFamilyHealth smart contract. It includes tests for initializing the family tree, adding family members, granting access, updating health data, retrieving health data, and checking unauthorized access.
@@ -70,9 +70,9 @@ The tests use simple byte strings for encrypted data and nonces. In a real-world
 
 
 
+###############################################################################################################################"
 
-
-
+![smart contract](Images/front_page.jpg)
 
 
 
@@ -149,3 +149,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![smart contract](Images/sign-in-page.jpg)
