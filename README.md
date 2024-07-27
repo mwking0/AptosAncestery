@@ -73,7 +73,7 @@ The tests use simple byte strings for encrypted data and nonces. In a real-world
 
 ###############################################################################################################################"
 
-![smart contract](Images/front_page.jpg)
+![smart contract](Images/front-page.jpg)
 
 
 
