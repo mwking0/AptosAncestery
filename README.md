@@ -35,6 +35,7 @@ HealthUpdateEvent is emitted when a health record is updated, providing transpar
 
 
 ##############################################################################################################################
+
 ![smart contract](Images/test.jpg)
 documentation 
 Purpose:
