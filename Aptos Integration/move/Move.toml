@@ -1,0 +1,16 @@
+[package]
+name = "Health"
+version = "1.0.0"
+authors = []
+
+[addresses]
+AptosAncestry="5a128a5468f0926e534ed439f5adcf0d14aec08521e9681e26f40b5e35bc153e"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
